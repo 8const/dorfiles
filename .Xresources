@@ -1,0 +1,23 @@
+*.font: Source Code Pro: pixelsize=24:antialias=true:autohint=true;
+*.alpha: 0.8
+*.color0: #272727
+*.color1: #ffbbbb
+*.color2: #bbffc5
+*.color3: #fffdc2
+*.color4: #ccd8ff
+*.color5: #ffc5f0
+*.color6: #ccfaff
+*.color7: #ffddc2
+
+*.color8: #272727
+*.color9: #ffbbbb
+*.color10: #bbffc5
+*.color11: #fffdc2
+*.color12: #ccd8ff
+*.color13: #ffc5f0
+*.color14: #ccfaff
+*.color15: #ffddc2
+*.background: #272727
+ 
+*.foreground: #faf8f5
+
